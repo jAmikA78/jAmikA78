@@ -1,75 +1,48 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Ahmed, Welcome To My Github Profile ♥</h1>
-<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
-
-<br/>
-<br/>
-
+<h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
+<br>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Ahmed Ibrahim from Egypt. I'm a software Engineer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Instructor at Codebox. </h4>
+<h4>I'm Ahmed Ibrahim from Egypt. I'm a software engineer. I enjoy learning programming languages and frameworks, as well as implementing designs. Currently, I'm an instructor at Codebox.</h4>
 
+<br>
 
-	
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<h3>Languages and Tools 🛠 :</h3>
 
-### Languages and Tools 🛠 : 
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=c%2B%2B">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=java">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-563D7C?style=flat-square&logo=git&logoColor=%23ffffff">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-15b4c1?style=flat-square&logo=github&logoColor=%23ffffff">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-%23CC6699?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-%23F05032?style=flat-square&logo=windows&logoColor=%23ffffff">
+  <img alt="Notion" src="http://img.shields.io/badge/-Notion-007ACC?style=flat-square&logo=notion&logoColor=000">
+</p>
 
-![C++](https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=c++)
-![Java](https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![Git](https://img.shields.io/badge/-Git-563D7C?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-15b4c1?style=flat-square&logo=github&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-%23CC6699?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Notion](http://img.shields.io/badge/-Notion-007ACC?style=flat-square&logo=notion&logoColor=000)
+<h3>I’m currently learning:</h3>
 
+<p>
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-%23282C34?style=flat-square&logo=dart">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-7348b6?style=flat-square&logo=flutter">
+</p>
 
+<br>
 
-- ### I’m currently learning 
-![Dart](https://img.shields.io/badge/-Dart-%23282C34?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-7348b6?style=flat-square&logo=flutter)
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
+<h3>Contact Me</h3>
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
- ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Ahmed.ibrahim7893@gmail@gmail.com)](mailto:Ahmed.ibrahim7893@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/ahmed-ibrahim-2a7851254/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.link/uohlcp)
-
-<!-- ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Ahmed.ibrahim7893@gmail.com)](mailto:Ahmed.ibrahim7893@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-ibrahim-2a7851254?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/ahmed-ibrahim-2a7851254?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.link/uohlcp) -->
-
-
-<!-- ### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ibrahim-2a7851254?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jamika7893)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)(https://wa.link/uohlcp)
-
-
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-<!-- ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<br/>
--->
-##### Fun fact: I once solved the world's oldest question with a single line of Code  :"D
-
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
+<p>
+  <a href="mailto:Ahmed.ibrahim7893@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-ibrahim-2a7851254/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.link/uohlcp">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white">
+  </a>
+</p>
