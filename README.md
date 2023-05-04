@@ -1,5 +1,5 @@
-
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql"><h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql">
+<h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
 <br>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
@@ -51,6 +51,6 @@
   <a href="https://codeforces.com/profile/jamika78">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
-</pHere's the updated version of your GitHub profile with the links added:
+</p>
 
-  <h3>Funny Joke :: Why do programmers prefer dark mode? Because light attracts bugs!</h3>
+<p>#### Funny Joke :: Why do programmers prefer dark mode? Because light attracts bugs!</p>
