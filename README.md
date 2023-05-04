@@ -17,20 +17,20 @@
 
 ### Languages and Tools 🛠 : 
 
-![C++](https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-563D7C?style=flat-square&logo=Bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=c++)
+![Java](https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![Git](https://img.shields.io/badge/-Git-563D7C?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-15b4c1?style=flat-square&logo=github&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-%23CC6699?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Notion](http://img.shields.io/badge/-Notion-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Notion](http://img.shields.io/badge/-Notion-007ACC?style=flat-square&logo=notion&logoColor=000)
 
 
 
 - ### I’m currently learning 
-![Dart](https://img.shields.io/badge/-Dart-%23282C34?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-%23282C34?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-7348b6?style=flat-square&logo=flutter)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
