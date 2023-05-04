@@ -1,7 +1,7 @@
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql">
 <h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
 <br>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
 <h4>I'm Ahmed Ibrahim from Egypt. I'm a software engineer. I enjoy learning programming languages and frameworks, as well as implementing designs. Currently, I'm an instructor at Codebox.</h4>
