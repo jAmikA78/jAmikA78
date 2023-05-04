@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
 <h3>Languages and Tools 🛠 :</h3>
 
@@ -23,7 +23,7 @@
   <img alt="Notion" src="http://img.shields.io/badge/-Notion-007ACC?style=flat-square&logo=notion&logoColor=000">
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
 
 <h3>I’m currently learning:</h3>
@@ -33,7 +33,7 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-7348b6?style=flat-square&logo=flutter">
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
 <h3>Contact Me</h3>
 
@@ -58,8 +58,8 @@
   </a>
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
 ####<p>Funny Joke :: Why do programmers prefer dark mode? Because light attracts bugs!</p>####
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
