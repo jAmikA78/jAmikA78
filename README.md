@@ -64,7 +64,7 @@
 
 <br/>
 -->
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
+##### Fun fact: I once solved the world's oldest question with a single line of Code  :"D
 
 
 ```javascript
