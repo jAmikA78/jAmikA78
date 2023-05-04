@@ -1,19 +1,4 @@
-<h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
-<br>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-<h3>🚀 About Me</h3> 
-<h4>I'm Ahmed Ibrahim from Egypt. I'm a software engineer. I enjoy learning programming languages and frameworks, as well as implementing designs. Currently, I'm an instructor at Codebox.</h4>
-
-<br>
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
-
-<h3>Languages and Tools 🛠 :</h3>
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=c%2B%2B">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=java">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql"><h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
 <br>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
