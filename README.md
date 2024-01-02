@@ -59,5 +59,4 @@
 
 <div align="center">
   <h1 align="center">🐍 Contributions</h1>
-  <img src="https://raw.githubusercontent.com/jAmikA78/jAmikA78/output/github-contribution-grid-snake-dark.svg"/>
 </div>
