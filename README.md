@@ -56,7 +56,3 @@
 <p align="center">
   <em>Funny Joke: Why do programmers prefer dark mode? Because light attracts bugs!</em>
 </p>
-
-<div align="center">
-  <h1 align="center">🐍 Contributions</h1>
-</div>
