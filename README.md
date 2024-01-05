@@ -1,5 +1,5 @@
 <p align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist;Instructor+at+MACPC" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=868ddc&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist;Instructor+at+MACPC" alt="Typing SVG" /></a>
   
 </p>
 <p align="center">
@@ -30,7 +30,7 @@
   I enjoy learning programming languages and frameworks, as well as implementing designs.
  </h3>
   <h2> I have experience in</h2> 
-  <h4 align="center">
+  <h4>
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
     and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).</h4>
