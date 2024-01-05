@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <h3>
+  <h3 align="center">
   I'm a software engineer from Egypt with a passion for problem-solving, competitive programming, Modern technologies, and building creative solutions to complex challenges. <br>
   I enjoy learning programming languages and frameworks, as well as implementing designs.<br>
   Currently, I'm an instructor at MACPC. </h3>
