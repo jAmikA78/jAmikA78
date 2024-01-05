@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Ahmed Ibrahim</h1>
 
 <p align="center">
-  Follow me :- 
+  <b>Connect with me: </b> 
   <a href="https://www.linkedin.com/in/-ahmed-ibrahim-abd-elghany/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
