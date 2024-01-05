@@ -30,7 +30,7 @@
   I enjoy learning programming languages and frameworks, as well as implementing designs.
  </h3>
   <h2> I have experience in</h2> 
-  <h4 style=" margin-left: 4em;">
+  <h4 style="margin-left: 4%;">
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
     and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).</h4>
