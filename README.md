@@ -23,13 +23,13 @@
 
 <p align="center">
   I'm a software engineer from Egypt with a passion for problem-solving, competitive programming, Modern technologies, and building creative solutions to complex challenges. <br>
-  I enjoy learning programming languages and frameworks, as well as implementing designs.<be>
+  I enjoy learning programming languages and frameworks, as well as implementing designs.<br>
   Currently, I'm an instructor at MACPC.<br>
   <h2> I have experience in</h2>  <br>
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
-    and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).<be>
- <h2> I have successfully competed as an ECPC finalist and continue to explore new challenges in the ever-evolving tech landscape.</h2>h2>
+    and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).<br>
+ <h3> I have successfully competed as an ECPC finalist and continue to explore new challenges in the ever-evolving tech landscape.</h3>
 </p>
 
 <p align="center">
