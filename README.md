@@ -1,5 +1,5 @@
 <p align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist;Instructor+at+MACPC" alt="Typing SVG" /></a>
   
 </p>
 <p align="center">
@@ -27,8 +27,8 @@
 <p align="center">
   <h3 align="center">
   I'm a software engineer from Egypt with a passion for problem-solving, competitive programming, Modern technologies, and building creative solutions to complex challenges. <br>
-  I enjoy learning programming languages and frameworks, as well as implementing designs.<br>
-  Currently, I'm an instructor at MACPC. </h3>
+  I enjoy learning programming languages and frameworks, as well as implementing designs.
+ </h3>
   <h2> I have experience in</h2> 
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
