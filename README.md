@@ -29,7 +29,7 @@
   <h2> I have experience in</h2> 
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
-    and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).<br>
+    and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).
  <h3> I have successfully competed as an ECPC finalist and continue to explore new challenges in the ever-evolving tech landscape.</h3>
 </p>
 
