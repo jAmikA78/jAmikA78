@@ -1,7 +1,9 @@
-<h1 align="center">Hello! 👋 I'm Ahmed Ibrahim</h1>
-
 <p align="center">
-  <b>Connect with me: </b> 
+<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist" alt="Typing SVG" /></a>
+  
+</p>
+<p align="center">
+  <b>Connect with me : </b> 
   <a href="https://www.linkedin.com/in/-ahmed-ibrahim-abd-elghany/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
@@ -31,7 +33,6 @@
     mobile applications with Flutter, <br>
     desktop applications with Java, <br>
     and full-stack web development with (HTML, CSS, JavaScript, PHP, and Bootstrap).
- <h3> I have successfully competed as an ECPC finalist and continue to explore new challenges in the ever-evolving tech landscape.</h3>
 </p>
 
 <p align="center">
