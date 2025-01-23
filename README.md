@@ -26,8 +26,10 @@
 
 <p align="center">
   <h3 align="center">
-  I'm a software engineer from Egypt with a passion for problem-solving, competitive programming, Modern technologies, and building creative solutions to complex challenges. <br>
-  I enjoy learning programming languages and frameworks, as well as implementing designs.
+    Computer Science professional with hands-on experience across mobile development with Flutter, data analysis using Python, and building web and desktop applications using Java, SQL, HTML, CSS, JavaScript, and PHP. <br>
+    Proficient in Linux and Windows environments and skilled in Office and Google Drive tools. <br>
+    Experienced in competitive programming, achieving a public Codeforces rank and qualifying as a finalist in the Egyptian Collegiate Programming Contest (ECPC). <br>
+    Known for leadership in student activities and dedicated volunteer work as an instructor, helping others develop core programming skills.
  </h3>
   <h2> I have experience in</h2> 
 <p">
