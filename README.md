@@ -97,7 +97,7 @@ Modern Academy of Maadi (MAM), Cairo, Egypt
 
 ## GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamika78&show_icons=true&theme=radical)  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamika78&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamika78&layout=compact&theme=radical)
 
 > Funny Joke: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
