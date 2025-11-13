@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ahmed Ibrahim
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=868ddc&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;Mobile+App+Developer+&#128241;;Specializing+in+Flutter+%26+Kotlin;Software+Engineer;ML+Enthusiast;ECPC+Finalist;Competitive+Programmer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=868ddc&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+Ahmed+Ibrahim;Mobile+App+Developer+&#128241)
 
 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/-ahmed-ibrahim-abd-elghany/)
