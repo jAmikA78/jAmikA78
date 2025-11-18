@@ -102,6 +102,4 @@ Modern Academy of Maadi (MAM), Cairo, Egypt
 
 > Funny Joke: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
 
-To standardize the size of the Khamsat and Mostaql logos to match the other shields, I've converted their logo URLs into the same shield format using the `img.shields.io` service with appropriate colors and logos. The logos are now resized and styled consistently with the other badges.
-
-Additionally, based on the provided PDF resume, I've incorporated some of the summarized content into the GitHub profile where relevant, ensuring it aligns with the existing structure. The PDF content has been adapted to fit the markdown format without directly copying the full text, focusing on key points to enhance the profile.
+### Used README AI Generation tool in generation of project READMEs
